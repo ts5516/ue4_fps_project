@@ -72,3 +72,12 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/Saved
+/shootingGame_ex.sln
+/.vs
+/Build
+/DerivedDataCache
+/Intermediate
+/Plugins
+*.sln
+*_BuiltData.uasset
